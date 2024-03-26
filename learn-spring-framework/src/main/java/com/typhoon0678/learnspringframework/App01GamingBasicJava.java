@@ -4,7 +4,7 @@ import com.typhoon0678.learnspringframework.game.GameRunner;
 import com.typhoon0678.learnspringframework.game.MarioGame;
 import com.typhoon0678.learnspringframework.game.PacmanGame;
 
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
 
     public static void main(String[] args) {
 
